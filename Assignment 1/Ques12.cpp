@@ -1,4 +1,6 @@
-    #include<iostream>
+// Problem 2 — Sensor Log Buffer
+
+#include<iostream>
     #include <iomanip>
     using namespace std;
 
