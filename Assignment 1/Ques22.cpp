@@ -1,3 +1,5 @@
+//Problem 2.2 — Signal Processing Pipeline
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
