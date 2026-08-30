@@ -193,9 +193,11 @@ int main(){
 
 
 
-    // e1.empId = 999;          *Error* -> we get error here because we are trying to access the private variable in the class and 
-    // e1.basicSalary = -1000;  assigning the value to it.we can access the value of it through getter and set its value through 
-    // setter so the private variables are stictly binded that no one can access it so we cannot access it.
+    // empId and basicSalary are private data members,so they cannot be accessed or modified directly from main().
+    // This protects the data and we must use public setter functions to modify them safely.
+
+    // e1.empId = 999;
+    // e1.basicSalary = -1000;
 
 
     e1.printPayslip();
