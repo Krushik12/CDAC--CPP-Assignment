@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Day3_2.cpp
+// Name        : Ques3_2.cpp
 // Author      : Krushik
 // Version     :
 // Copyright   : Your copyright notice
